@@ -1,7 +1,7 @@
 name: Herbal Health Collective
 favicon: null
-layout_spectrum: 0.011487171752378345
-typography_spectrum: 0.06520998547784984
+layout_spectrum: 1
+typography_spectrum: 1
 title: Herbal Health Collective
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.573689587181434
-  lightness: 0.5529397483915091
-  saturation: 0.5351244013290852
-  rhythmicContrast: 0.19395884685218334
+    - '#fffffd'
+    - '#311512'
+    - '#783a2f'
+    - '#adc0a2'
+    - '#67764e'
+  brandStrength: 0.5
+  lightness: 0.5625
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
