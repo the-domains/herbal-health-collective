@@ -1,41 +1,40 @@
 ---
+datePublished: '2016-08-29T20:14:05.313Z'
+sourcePath: _posts/2016-08-22-herbal-complexes.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
-description: HERBAL COMPLEXES
-datePublished: '2016-08-22T22:10:45.171Z'
-dateModified: '2016-08-22T22:10:23.293Z'
-title: ''
 author: []
 via: {}
-authors: []
+dateModified: '2016-08-29T20:14:04.568Z'
+title: ''
 publisher: {}
+description: HERBAL COMPLEXES
+inLanguage: null
+inNav: false
 starred: false
-sourcePath: _posts/2016-08-22-herbal-complexes.md
 url: herbal-complexes/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c478b087-4a10-4d32-ae8d-2e3890df39f5.jpg)
-
 HERBAL COMPLEXES
 
-PRODUCTS: 
+PRODUCTS:
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c478b087-4a10-4d32-ae8d-2e3890df39f5.jpg)
 
-Capsules - 
+Capsules -
 
-Kidney I 
+Kidney I
 
-Kidney II 
+Kidney II
 
-Parasite M 
+Parasite M
 
-Endocrine Gland 
+Endocrine Gland
 
-Upper Body Circulation 
+Upper Body Circulation
 
-Brain/Nerve II 
+Brain/Nerve II
 
 Adrenal Gland
