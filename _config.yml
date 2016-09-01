@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: SHOP
+    url: 'https://farm-of-life.myshopify.com/'
+    type: external
 favicon: null
 title: Herbal Health Collective
 description: Taking You from Hell-ville to Well-ville
