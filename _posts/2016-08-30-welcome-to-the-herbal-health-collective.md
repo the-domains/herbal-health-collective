@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-30T02:18:59.370Z'
+datePublished: '2016-08-30T03:42:14.374Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-30T02:14:22.250Z'
+dateModified: '2016-08-30T03:42:13.218Z'
 title: ''
 publisher: {}
 description: Welcome to the Herbal Health Collective!
-starred: false
 sourcePath: _posts/2016-08-30-welcome-to-the-herbal-health-collective.md
-_type: Blurb
+hasPage: true
+starred: false
+url: welcome-to-the-herbal-health-collective/index.html
+_type: Article
 
 ---
 Welcome to the Herbal Health Collective!
