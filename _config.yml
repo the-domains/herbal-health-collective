@@ -1,20 +1,4 @@
-name: Herbal Health Collective
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 1
-title: Herbal Health Collective
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#fffffd'
@@ -26,4 +10,21 @@ color:
   lightness: 0.5625
   saturation: 0.3125
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Herbal Health Collective
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Herbal Health Collective
+description: The community to take you from hell-ville to well-ville
 purpose: []
