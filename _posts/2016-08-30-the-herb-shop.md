@@ -1,14 +1,14 @@
 ---
-id: df61321f-110b-4d97-aa6b-e90b5a53b062
-dateModified: '2016-08-30T22:41:29.691Z'
-title: THE HERB SHOP
-datePublished: '2016-08-30T22:41:30.556Z'
-author: []
-description: Raw Herbs
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-31T00:35:06.062Z'
 sourcePath: _posts/2016-08-30-the-herb-shop.md
+author: []
+via: {}
+dateModified: '2016-08-31T00:35:05.607Z'
+title: THE HERB SHOP
+id: df61321f-110b-4d97-aa6b-e90b5a53b062
+publisher: {}
+description: Raw Herbs
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
