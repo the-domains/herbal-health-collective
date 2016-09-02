@@ -1,18 +1,16 @@
 ---
-datePublished: '2016-08-31T01:03:58.885Z'
+datePublished: '2016-08-31T01:04:07.616Z'
 sourcePath: _posts/2016-08-30-the-herb-shop.md
+inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T01:03:58.607Z'
+dateModified: '2016-08-31T01:04:06.798Z'
 title: THE HERB SHOP
 id: df61321f-110b-4d97-aa6b-e90b5a53b062
 publisher: {}
 description: Raw Herbs
 starred: true
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+_type: Blurb
 
 ---
 # THE HERB SHOP
