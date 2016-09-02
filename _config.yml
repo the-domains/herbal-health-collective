@@ -31,6 +31,9 @@ navigation:
   - name: THE HERB SHOP
     id: df61321f-110b-4d97-aa6b-e90b5a53b062
     type: content
+  - name: PRACTITIONER SERVICES
+    id: 1f2942e3-4fc0-4926-8298-eaf9f701bfc7
+    type: content
 favicon: null
 title: Herbal Health Collective
 description: Taking You from Hell-ville to Well-ville
