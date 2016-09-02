@@ -1,21 +1,22 @@
 ---
-datePublished: '2016-08-30T21:24:52.405Z'
-sourcePath: _posts/2016-08-30-welcome-to-the-herbal-health-collective.md
-inFeed: true
-hasPage: true
-author: []
-via: {}
-dateModified: '2016-08-30T21:24:51.616Z'
+id: 28c02d22-5395-4da4-a822-88412d9869c6
+dateModified: '2016-08-30T21:29:34.847Z'
 title: Welcome to the Herbal Health Collective!
-publisher: {}
+datePublished: '2016-08-30T21:29:35.335Z'
+author: []
 description: >-
   Located in the San Diego area, working globally with herb lovers everywhere.
   HHC provides donation based services and low-cost herbal complexes to ensure
   everyone can afford the ticket to Well-ville. The collective focuses on the
   detoxification an regeneration of the body.
+publisher: {}
+via: {}
 starred: false
-url: welcome-to-the-herbal-health-collective/index.html
-_type: Article
+sourcePath: _posts/2016-08-30-welcome-to-the-herbal-health-collective.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 # Welcome to the Herbal Health Collective!
