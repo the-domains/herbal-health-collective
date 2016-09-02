@@ -1,11 +1,12 @@
 ---
-datePublished: '2016-08-30T23:13:14.811Z'
+datePublished: '2016-08-31T00:59:30.850Z'
+sourcePath: _posts/2016-08-30-meet-our-local-farmers.md
 isBasedOnUrl: 'https://farm-of-life.myshopify.com/'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-30T23:13:07.623Z'
+dateModified: '2016-08-31T00:59:30.194Z'
 title: Meet Our Local Farmers
 app_links: []
 publisher:
@@ -18,7 +19,6 @@ description: >-
   producing the highest quality fruits and vegetables, using no fertilizers or
   pesticides.
 starred: false
-sourcePath: _posts/2016-08-30-meet-our-local-farmers.md
 inFeed: true
 hasPage: false
 inNav: false
