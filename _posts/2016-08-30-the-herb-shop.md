@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-31T01:04:07.616Z'
+datePublished: '2016-08-31T01:08:09.788Z'
 sourcePath: _posts/2016-08-30-the-herb-shop.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T01:04:06.798Z'
+dateModified: '2016-08-31T01:08:09.223Z'
 title: THE HERB SHOP
 id: df61321f-110b-4d97-aa6b-e90b5a53b062
 publisher: {}
