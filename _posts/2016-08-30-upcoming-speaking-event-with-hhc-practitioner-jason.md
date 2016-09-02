@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T01:13:46.669Z'
+datePublished: '2016-08-31T01:41:59.244Z'
 sourcePath: _posts/2016-08-30-upcoming-speaking-event-with-hhc-practitioner-jason.md
 isBasedOnUrl: 'https://www.costaricafruitfest.com/'
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-31T01:13:46.059Z'
+dateModified: '2016-08-31T01:41:58.780Z'
 title: Upcoming Speaking Event with HHC Practitioner JASON in beautiful Costa Rica!
 app_links: []
 publisher:
@@ -25,11 +25,7 @@ publisher:
   favicon: >-
     https://www.costaricafruitfest.com/wp-content/uploads/2016/07/Mangosteen-icon.png
   domain: www.costaricafruitfest.com
-description: >-
-  The Costa Rica Fruit Festival is a transformative week-long event designed to
-  inspire and empower participants with knowledge and experience relating to
-  natural health, permaculture, community building, and regenerative living. The
-  venue of Punta Mona (a.k.a.
+description: ''
 inLanguage: en
 starred: false
 inFeed: true
@@ -41,4 +37,6 @@ _type: MediaObject
 ---
 # Upcoming Speaking Event with HHC Practitioner JASON in beautiful Costa Rica!
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df63b75c068c774bee72c8b8ad0be91ca8b74130.jpg" /><h1>Costa Rica Fruit Fest Official Website</h1><p>The Costa Rica Fruit Festival is a transformative week-long event designed to inspire and empower participants with knowledge and experience relating to natural health, permaculture, community building, and regenerative living. The venue of Punta Mona (a.k.a.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df63b75c068c774bee72c8b8ad0be91ca8b74130.jpg" /><h1>Costa Rica Fruit Fest Official Website</h1></article>
+
+The Costa Rica Fruit Festival is a transformative week-long event designed to inspire and empower participants with knowledge and experience relating to natural health, permaculture, community building, and regenerative living. The venue of Punta Mona (a.k.a. Monkey Point) on the Southern Caribbean coast is a phenomenal off-grid retreat center with comfortable amenities, an abundant food forest, pristine tropical rainforest, and access to spectacular white sand beaches.
