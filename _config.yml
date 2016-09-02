@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Welcome
-    id: 28c02d22-5395-4da4-a822-88412d9869c6
-    type: content
 favicon: null
 title: Herbal Health Collective
 description: Taking You from Hell-ville to Well-ville
