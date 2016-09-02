@@ -34,6 +34,9 @@ navigation:
   - name: PRACTITIONER SERVICES
     id: 1f2942e3-4fc0-4926-8298-eaf9f701bfc7
     type: content
+  - name: JOIN US!
+    id: e470b1c1-ca46-467a-b07d-f8426edb84c4
+    type: content
 favicon: null
 title: Herbal Health Collective
 description: Taking You from Hell-ville to Well-ville
