@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-30T04:22:18.104Z'
+datePublished: '2016-08-30T21:27:19.355Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-30T04:21:50.581Z'
+dateModified: '2016-08-30T21:27:18.528Z'
 title: PRACTITIONER SERVICES
 publisher: {}
 description: WHAT IS IRIDOLOGY?
-starred: false
 sourcePath: _posts/2016-08-30-practitioner-services.md
-_type: Blurb
+hasPage: true
+starred: false
+url: practitioner-services/index.html
+_type: Article
 
 ---
 ![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/0c15100686ffcb3f6e4c97e2c4568f13/croprotate.jpg?cropheight=768&cropwidth=586&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fae05f7cf-50ac-40cf-97ce-c53865abfe0c.jpg&x=16&y=16)
