@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Fruit Gif
-    id: d8c8043a-14e6-41b5-895e-4a01397e2f49
-    type: content
   - name: JOIN US!
     id: e470b1c1-ca46-467a-b07d-f8426edb84c4
     type: content
