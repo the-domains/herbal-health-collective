@@ -1,14 +1,14 @@
 ---
-id: 1f2942e3-4fc0-4926-8298-eaf9f701bfc7
-dateModified: '2016-08-31T01:13:57.322Z'
-title: PRACTITIONER SERVICES
-datePublished: '2016-08-31T01:13:57.980Z'
-author: []
-description: WHAT IS IRIDOLOGY?
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-31T01:44:58.988Z'
 sourcePath: _posts/2016-08-30-practitioner-services.md
+author: []
+via: {}
+dateModified: '2016-08-31T01:44:58.448Z'
+title: PRACTITIONER SERVICES
+id: 1f2942e3-4fc0-4926-8298-eaf9f701bfc7
+publisher: {}
+description: WHAT IS IRIDOLOGY?
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
