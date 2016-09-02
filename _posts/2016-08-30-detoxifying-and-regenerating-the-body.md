@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-31T01:42:41.496Z'
+datePublished: '2016-08-31T01:59:14.200Z'
 sourcePath: _posts/2016-08-30-detoxifying-and-regenerating-the-body.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T01:42:40.851Z'
+dateModified: '2016-08-31T01:59:09.720Z'
 title: DETOXIFYING AND REGENERATING THE BODY
 publisher: {}
 description: ''
