@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T01:59:14.200Z'
+datePublished: '2016-08-31T01:59:31.468Z'
 sourcePath: _posts/2016-08-30-detoxifying-and-regenerating-the-body.md
 inFeed: true
 author: []
