@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-30T22:40:35.574Z'
-author: []
-via: {}
-dateModified: '2016-08-30T22:40:34.833Z'
-title: PRACTITIONER SERVICES
 id: 1f2942e3-4fc0-4926-8298-eaf9f701bfc7
-publisher: {}
+dateModified: '2016-08-31T01:13:57.322Z'
+title: PRACTITIONER SERVICES
+datePublished: '2016-08-31T01:13:57.980Z'
+author: []
 description: WHAT IS IRIDOLOGY?
+publisher: {}
+via: {}
 starred: false
 sourcePath: _posts/2016-08-30-practitioner-services.md
 inFeed: true
@@ -16,7 +16,7 @@ _type: MediaObject
 
 ---
 # PRACTITIONER SERVICES
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/0c15100686ffcb3f6e4c97e2c4568f13/croprotate.jpg?cropheight=768&cropwidth=586&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fae05f7cf-50ac-40cf-97ce-c53865abfe0c.jpg&x=16&y=16)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/996fcc70c90ba46671b02f89e0f4a0b890529b6c.jpg)
 
 ## DETOX PACKAGES
 
