@@ -1,4 +1,3 @@
-layout_spectrum: 0.010211337357759476
 typography_spectrum: 0.2556987798307091
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.010211337357759476
 analytics:
   google: null
   facebook: null
@@ -37,7 +37,8 @@ navigation:
   - name: PRACTITIONER SERVICES
     id: 1f2942e3-4fc0-4926-8298-eaf9f701bfc7
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd28c3b1-6afa-43e9-a4d4-98756f961292.jpg
 title: Herbal Health Collective
 description: Taking You from Hell-ville to Well-ville
 purpose: []
