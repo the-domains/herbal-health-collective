@@ -1,17 +1,18 @@
 ---
-datePublished: '2016-08-30T21:25:41.514Z'
+id: df61321f-110b-4d97-aa6b-e90b5a53b062
+dateModified: '2016-08-30T22:41:29.691Z'
+title: THE HERB SHOP
+datePublished: '2016-08-30T22:41:30.556Z'
+author: []
+description: Raw Herbs
+publisher: {}
+via: {}
+starred: false
 sourcePath: _posts/2016-08-30-the-herb-shop.md
 inFeed: true
-hasPage: true
-author: []
-via: {}
-dateModified: '2016-08-30T21:25:40.789Z'
-title: THE HERB SHOP
-publisher: {}
-description: Raw Herbs
-starred: false
-url: the-herb-shop/index.html
-_type: Article
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 # THE HERB SHOP
