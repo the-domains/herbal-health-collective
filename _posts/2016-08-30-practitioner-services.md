@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-31T01:44:58.988Z'
+datePublished: '2016-08-31T01:49:36.835Z'
 sourcePath: _posts/2016-08-30-practitioner-services.md
 author: []
 via: {}
-dateModified: '2016-08-31T01:44:58.448Z'
+dateModified: '2016-08-31T01:49:36.314Z'
 title: PRACTITIONER SERVICES
 id: 1f2942e3-4fc0-4926-8298-eaf9f701bfc7
 publisher: {}
-description: WHAT IS IRIDOLOGY?
+description: '                       * DETOX PACKAGES * IRIDOLOGY REPORTS * '
 starred: false
 inFeed: true
 hasPage: false
@@ -18,15 +18,11 @@ _type: MediaObject
 # PRACTITIONER SERVICES
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/996fcc70c90ba46671b02f89e0f4a0b890529b6c.jpg)
 
-## DETOX PACKAGES
+\* DETOX PACKAGES \* IRIDOLOGY REPORTS \* 
 
-## IRIDOLOGY REPORTS
+\* HERBAL PROTOCOLS \* IRIDOLOGY REPORTS \* 
 
-## HERBAL PROTOCOLS
-
-## IRIDOLOGY REPORTS
-
-WHAT IS IRIDOLOGY?
+### WHAT IS IRIDOLOGY?
 
 "Iridology is the study of the color and structure of the iris of the eye as they relate to the organs, glands and tissue of the body." - Techniques in Iris Analysis Textbook for Iridology
 
@@ -34,7 +30,7 @@ $15-$20 Quick Reading
 
 $225 Full Report
 
-## Herbal Protocols
+# Herbal Protocols
 
 ## DETOX PACKAGES INCLUDE -
 
@@ -58,7 +54,7 @@ reducing inflammation and increasing range of motion;
 
 • Customized activities
 
-## Pricing:
+## Pricing -
 
 13- Week Coaching Package -- Suggested Donation $840 - $1480
 
