@@ -1,15 +1,13 @@
 ---
-datePublished: '2016-08-31T01:13:04.307Z'
+datePublished: '2016-08-31T01:39:48.908Z'
 sourcePath: _posts/2016-08-30-practitioners-directory.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T01:13:03.629Z'
+dateModified: '2016-08-31T01:39:47.464Z'
 title: PRACTITIONERS DIRECTORY
 publisher: {}
-description: >-
-  Jason has walked many paths during this life journey. He has a passion to be
-  surrounded by urban and rural edible landscapes.
+description: ''
 starred: false
 _type: Blurb
 
