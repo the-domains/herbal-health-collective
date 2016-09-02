@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-30T21:20:44.404Z'
+datePublished: '2016-08-30T21:25:41.514Z'
 sourcePath: _posts/2016-08-30-the-herb-shop.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T21:20:43.636Z'
+dateModified: '2016-08-30T21:25:40.789Z'
 title: THE HERB SHOP
 publisher: {}
 description: Raw Herbs
