@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-31T01:02:42.644Z'
+datePublished: '2016-08-31T01:03:58.885Z'
 sourcePath: _posts/2016-08-30-the-herb-shop.md
 author: []
 via: {}
-dateModified: '2016-08-31T01:02:42.155Z'
+dateModified: '2016-08-31T01:03:58.607Z'
 title: THE HERB SHOP
 id: df61321f-110b-4d97-aa6b-e90b5a53b062
 publisher: {}
