@@ -1,22 +1,27 @@
 ---
-datePublished: '2016-08-31T01:39:48.908Z'
-sourcePath: _posts/2016-08-30-practitioners-directory.md
-inFeed: true
+datePublished: '2016-08-31T20:39:02.613Z'
 author: []
 via: {}
-dateModified: '2016-08-31T01:39:47.464Z'
+dateModified: '2016-08-31T20:39:02.002Z'
 title: PRACTITIONERS DIRECTORY
+id: 0dc6baab-df30-438f-aeae-322334d2752c
 publisher: {}
 description: ''
 starred: false
-_type: Blurb
+sourcePath: _posts/2016-08-30-practitioners-directory.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e7910ac-6c1f-4997-916f-100d8aeb5708.png)
 
 # **PRACTITIONERS DIRECTORY**
 
-## JASON OWEN HUNTER - Certified Detoxification Specialist, Permaculture Designer, Mucusless Diet Expert
+## JASON OWENT HUNTER
+
+## Certified Detoxification Specialist Permaculture Designer Mucus-less Diet Expert 
 
 Jason has walked many paths during this life journey. He has a passion to be surrounded by urban and rural edible landscapes.
 
