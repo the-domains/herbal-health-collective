@@ -1,19 +1,19 @@
 ---
-id: 6f6cf76b-9e1a-474c-a497-a03480479451
-dateModified: '2016-08-31T22:03:30.888Z'
-title: Meet Our Farmers
-datePublished: '2016-08-31T22:03:31.291Z'
-author: []
+datePublished: '2016-08-31T22:04:31.855Z'
+sourcePath: _posts/2016-08-30-meet-our-local-farmers.md
 isBasedOnUrl: 'https://farm-of-life.myshopify.com/'
-description: ''
+author: []
+via: {}
+dateModified: '2016-08-31T22:04:31.425Z'
+title: Meet Our Farmers
+id: 6f6cf76b-9e1a-474c-a497-a03480479451
 publisher:
   url: 'https://farm-of-life.myshopify.com'
   name: Farm of Life
   favicon: 'https://farm-of-life.myshopify.com/favicon.ico'
   domain: farm-of-life.myshopify.com
-via: {}
+description: ''
 starred: false
-sourcePath: _posts/2016-08-30-meet-our-local-farmers.md
 inFeed: true
 hasPage: false
 inNav: false
