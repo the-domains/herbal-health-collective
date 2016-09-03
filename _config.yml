@@ -25,14 +25,14 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: GET STARTED
-    id: e470b1c1-ca46-467a-b07d-f8426edb84c4
-    type: content
   - name: '*'
     id: d8c8043a-14e6-41b5-895e-4a01397e2f49
     type: content
   - name: Welcome!
     id: 28c02d22-5395-4da4-a822-88412d9869c6
+    type: content
+  - name: GET STARTED
+    id: e470b1c1-ca46-467a-b07d-f8426edb84c4
     type: content
   - name: THE HERB SHOP
     id: df61321f-110b-4d97-aa6b-e90b5a53b062
