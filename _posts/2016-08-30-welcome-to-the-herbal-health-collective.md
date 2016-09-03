@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-31T02:03:27.805Z'
+datePublished: '2016-08-31T21:02:15.901Z'
 sourcePath: _posts/2016-08-30-welcome-to-the-herbal-health-collective.md
 author: []
 via: {}
-dateModified: '2016-08-31T02:03:27.285Z'
+dateModified: '2016-08-31T21:02:15.493Z'
 title: Welcome to the Herbal Health Collective!
 id: 28c02d22-5395-4da4-a822-88412d9869c6
 publisher: {}
