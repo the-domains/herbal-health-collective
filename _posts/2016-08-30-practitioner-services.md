@@ -1,18 +1,17 @@
 ---
-datePublished: '2016-08-31T20:37:35.614Z'
+datePublished: '2016-08-31T22:01:40.639Z'
 author: []
 via: {}
-dateModified: '2016-08-31T20:37:35.266Z'
+dateModified: '2016-08-31T22:01:40.170Z'
 title: PRACTITIONER SERVICES
 id: 1f2942e3-4fc0-4926-8298-eaf9f701bfc7
 publisher: {}
 description: '         * DETOX PACKAGES * IRIDOLOGY REPORTS *HERBAL PROTOCOLS*'
-starred: false
 sourcePath: _posts/2016-08-30-practitioner-services.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: practitioner-services/index.html
+_type: Blurb
 
 ---
 # PRACTITIONER SERVICES
