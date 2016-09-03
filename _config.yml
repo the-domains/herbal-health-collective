@@ -37,6 +37,9 @@ navigation:
   - name: PRACTITIONER SERVICES
     id: 1f2942e3-4fc0-4926-8298-eaf9f701bfc7
     type: content
+  - name: PRACTITIONERS DIRECTORY
+    id: 0dc6baab-df30-438f-aeae-322334d2752c
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd28c3b1-6afa-43e9-a4d4-98756f961292.jpg
 title: Herbal Health Collective
