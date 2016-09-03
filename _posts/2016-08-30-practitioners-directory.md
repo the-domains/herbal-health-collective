@@ -1,18 +1,17 @@
 ---
-datePublished: '2016-08-31T20:39:02.613Z'
+datePublished: '2016-08-31T22:01:10.812Z'
 author: []
 via: {}
-dateModified: '2016-08-31T20:39:02.002Z'
+dateModified: '2016-08-31T22:01:10.395Z'
 title: PRACTITIONERS DIRECTORY
 id: 0dc6baab-df30-438f-aeae-322334d2752c
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-08-30-practitioners-directory.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: practitioners-directory/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e7910ac-6c1f-4997-916f-100d8aeb5708.png)
