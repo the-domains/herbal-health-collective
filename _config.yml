@@ -25,7 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: JOIN US!
+  - name: GET STARTED
     id: e470b1c1-ca46-467a-b07d-f8426edb84c4
     type: content
   - name: '*'
