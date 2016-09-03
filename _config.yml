@@ -40,6 +40,9 @@ navigation:
   - name: PRACTITIONERS DIRECTORY
     id: 0dc6baab-df30-438f-aeae-322334d2752c
     type: content
+  - name: '*'
+    id: d8c8043a-14e6-41b5-895e-4a01397e2f49
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd28c3b1-6afa-43e9-a4d4-98756f961292.jpg
 title: Herbal Health Collective
