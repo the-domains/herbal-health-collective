@@ -1,18 +1,17 @@
 ---
-datePublished: '2016-08-31T01:56:50.647Z'
+datePublished: '2016-08-31T22:01:54.932Z'
 sourcePath: _posts/2016-08-30-become-a-member.md
 author: []
 via: {}
-dateModified: '2016-08-31T01:56:49.148Z'
+dateModified: '2016-08-31T22:01:54.556Z'
 title: GET STARTED
 id: e470b1c1-ca46-467a-b07d-f8426edb84c4
 publisher: {}
 description: ''
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: get-started/index.html
+_type: Blurb
 
 ---
 # GET STARTED
