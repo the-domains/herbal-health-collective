@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-31T01:49:36.835Z'
-sourcePath: _posts/2016-08-30-practitioner-services.md
+datePublished: '2016-08-31T20:37:35.614Z'
 author: []
 via: {}
-dateModified: '2016-08-31T01:49:36.314Z'
+dateModified: '2016-08-31T20:37:35.266Z'
 title: PRACTITIONER SERVICES
 id: 1f2942e3-4fc0-4926-8298-eaf9f701bfc7
 publisher: {}
-description: '                       * DETOX PACKAGES * IRIDOLOGY REPORTS * '
+description: '         * DETOX PACKAGES * IRIDOLOGY REPORTS *HERBAL PROTOCOLS*'
 starred: false
+sourcePath: _posts/2016-08-30-practitioner-services.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -18,9 +18,7 @@ _type: MediaObject
 # PRACTITIONER SERVICES
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/996fcc70c90ba46671b02f89e0f4a0b890529b6c.jpg)
 
-\* DETOX PACKAGES \* IRIDOLOGY REPORTS \* 
-
-\* HERBAL PROTOCOLS \* IRIDOLOGY REPORTS \* 
+\* DETOX PACKAGES \* IRIDOLOGY REPORTS \*HERBAL PROTOCOLS\*
 
 ### WHAT IS IRIDOLOGY?
 
